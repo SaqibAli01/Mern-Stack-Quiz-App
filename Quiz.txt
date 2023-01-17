@@ -1,0 +1,20 @@
+npm i express
+npm i cors
+npm i dotenv
+npm i mongoose
+npm i morgan
+
+npm i express core dotenv mongoose morgan
+
+
+--------------------
+npm run dev
+
+ "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+  },
+"scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },

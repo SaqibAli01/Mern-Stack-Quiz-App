@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: yellow;
+    height: 100vh; */
+
+}
+
+.h1{
+    background-color: green;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px;
+}
+.userId{
+    width: 200px;
+    padding: 10px;
+}
+.btn{
+    margin-top: 20px;
+    width: 150px;
+    text-align: center;
+    background-color: green;
+    /* border: 2px solid red; */
+    padding: 4px;
+}
+.btn .links{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    /* margin-top: 100px; */
+}
